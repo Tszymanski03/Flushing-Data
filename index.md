@@ -24,3 +24,4 @@ Unfortunately, Flushing rated poorest among tested Queens neighborhoods. Althoug
 Data Analysis from Open Restaurant Apps.
 
 Map of Flushing Restaurant Apps.
+<iframe src="mapFlushing.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
