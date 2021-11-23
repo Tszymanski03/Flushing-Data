@@ -22,6 +22,7 @@ Conclusions from HC3
 Unfortunately, Flushing rated poorest among tested Queens neighborhoods. Although with respect to the quality of the neighborhood Flushing received a Niche score of B, a score which was rather on par with what other neighborhoods - such as Maspeth and Jackson Heights - reported, other websites took to Flushing less favorably. Street Advisor assigned Flushing a rating of 5.7, higher only than Jackson Heights according to that site, while DNAInfo Rank dispensed the comparatively abysmal score of 9 for Flushing based on their data. Our group applied three metrics which pointed towards the same ultimate conclusion for Flushing, those being Walk and Transit score (separately) as well as Income. Altogether, this pointed towards Flushing being the least desirable neighborhood among those tested for outdoor dining.
 
 Data Analysis from Open Restaurant Apps.
+![alt text](flushing_data_analysis.jpg)
 
 Map of Flushing Restaurant Apps.
 <iframe src="mapFlushing.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
