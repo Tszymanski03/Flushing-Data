@@ -24,5 +24,7 @@ Unfortunately, Flushing rated poorest among tested Queens neighborhoods. Althoug
 Data Analysis from Open Restaurant Apps.
 ![flushing_data_analysis](flushing_data_analysis.jpg)
 
+As visible in the plots, Flushing more prominently features sidewalk than roadway area, thus meeting demand or interest in sidewalk seating. 
+
 Map of Flushing Restaurant Apps.
 ![hc9map](hc9map.jpg)
